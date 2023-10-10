@@ -1,10 +1,46 @@
-## Racourcision
-rsf
+## Available ressources
 
-## Dashboard tutorial
-- [Link](https://github.com/debargus/openshop-analytics-dashboard/blob/main/src/components/shared/Header.jsx)
+### UI components (designed to integrate beautifully with Tailwind CSS)
+- [tailwindcss](https://tailwindcss.com/)
+- [@headlessui/react](https://www.npmjs.com/package/@headlessui/react)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Charts(BarChart, LineChart, PieChart, ResponsiveContainer)
+- [recharts](https://recharts.org/en-US/api)
+
+### Validator
+- [simple-react-validator](https://github.com/dockwa/simple-react-validator)
+
+### Spinner
+- [@material-tailwind/react](https://www.material-tailwind.com/docs/react/spinner)
+
+### Router (browser-router, Outlet)
+- [react-router](https://reactrouter.com/en/main)
+- [react-router-dom](https://reactrouter.com/en/main/router-components/browser-router)
+
+### Navigate
+- [react-router](https://reactrouter.com/en/main/components/navigate)
+- [react-router-dom](https://reactrouter.com/en/main/hooks/use-navigate)
+
+### Icons
+- [react-icons](https://react-icons.github.io/react-icons/)
+
+### Store Redux Toolkit
+- [@reduxjs/toolkit](https://redux-toolkit.js.org/)
+- [react-redux](https://react-redux.js.org/)
+- [redux-persist](https://www.npmjs.com/package/redux-persist)
+- [localStorage]()
+
+### Notification
+- [react-toastify](https://www.npmjs.com/package/react-toastify)
+
+### Manipulating format Date
+- [date-fns](https://www.npmjs.com/package/date-fns)
+
+### Test 
+- [@testing-library/jest-dom](https://www.npmjs.com/package/@testing-library/jest-dom)
+- [@testing-library/react](https://www.npmjs.com/package/@testing-library/react)
+- [@testing-library/user-event](https://www.npmjs.com/package/@testing-library/user-event)
+- [jest](https://jestjs.io/)
 
 ## Available Scripts
 
