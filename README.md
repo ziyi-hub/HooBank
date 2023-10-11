@@ -7,9 +7,6 @@
 ### Charts(BarChart, LineChart, PieChart, ResponsiveContainer)
 - [recharts](https://recharts.org/en-US/api)
 
-### Validator
-- [simple-react-validator](https://github.com/dockwa/simple-react-validator)
-
 ### Spinner
 - [@material-tailwind/react](https://www.material-tailwind.com/docs/react/spinner)
 
