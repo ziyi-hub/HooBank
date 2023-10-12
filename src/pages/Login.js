@@ -1,4 +1,4 @@
-import React, {useContext, useRef, useState} from "react";
+import React, {useContext, useState} from "react";
 import { authContext, AuthContext } from "../context/AuthContext";
 import { useNavigate } from "react-router-dom";
 import { Footer } from "../components"

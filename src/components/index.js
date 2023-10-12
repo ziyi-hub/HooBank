@@ -9,6 +9,7 @@ import Footer from "./layout/Footer";
 import Testimonials from "./home/Testimonials";
 import Hero from "./home/Hero";
 import Layout from "./dashboard/Layout";
+import FormInput from "./login/FormInput";
 
 export {
     Navbar,
@@ -22,4 +23,5 @@ export {
     Testimonials,
     Hero,
     Layout,
+    FormInput,
 };

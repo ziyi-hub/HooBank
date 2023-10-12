@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { Dashboard, Home, Login, Products, DetailProduct } from "../pages";
+import { Dashboard, Home, Login, Register, Products, DetailProduct } from "../pages";
 import { Layout } from "../components";
 import AuthGuard from "../middlewares/AuthGuard";
 import SearchProvider from "../context/SearchContext";
@@ -14,6 +14,7 @@ function Routers() {
             <BrowserRouter>
                 <Routes>
                     <Route path="login" element={<Login />} />
+                    <Route path="register" element={<Register />} />
 
                     <Route element={<AuthGuard />}>
                         <Route path="home" element={<Home />} />
